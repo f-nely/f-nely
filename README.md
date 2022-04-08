@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm nely</h1>
 <h3>I'm a web development student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f-nely&label=Profile%20views&color=0e75b6&style=flat" alt="f-nely" /> </p>
-
 - 🌱 I’m currently learning **PHP, Laravel**
 
 - 🏠 From Rio de Janeiro
@@ -21,7 +19,7 @@
 
 <div>
   <a href="https://github.com/f-nely">
-  <img height="180em" style="width: 49%; float: left; margin: none;" src="https://github-readme-stats.vercel.app/api?username=f-nely&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" style="width: 49%; float: left; margin: none;" src="https://github-readme-stats.vercel.app/api?username=f-nely&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" style="width: 49%; float: right; margin: none;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-nely&count_private=true&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
